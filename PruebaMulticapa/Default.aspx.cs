@@ -1,4 +1,6 @@
-﻿using System;
+﻿using Proyecto.BE;
+using Proyecto.BL;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Web;
@@ -11,6 +13,18 @@ namespace PruebaMulticapa
     {
         protected void Page_Load(object sender, EventArgs e)
         {
+
+        }
+
+        protected void btnMostrarNombre_Click(object sender, EventArgs e)
+        {
+            EmpleadoBL logica = new EmpleadoBL();
+            EmpleadoBE empleado = new EmpleadoBE();
+
+            empleado = logica.GetEmpleado();
+
+            txtNombre.Text = empleado.Nombre;
+            txtEdad.Text = empleado.Edad.ToString();
 
         }
     }

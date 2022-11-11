@@ -1,0 +1,6 @@
+C:\Users\Vasti Gabriela Flore\source\repos\PruebaMulticapa\Proyecto.BE\bin\Debug\Proyecto.BE.dll
+C:\Users\Vasti Gabriela Flore\source\repos\PruebaMulticapa\Proyecto.BE\bin\Debug\Proyecto.BE.pdb
+C:\Users\Vasti Gabriela Flore\source\repos\PruebaMulticapa\Proyecto.BE\obj\Debug\Proyecto.BE.csproj.AssemblyReference.cache
+C:\Users\Vasti Gabriela Flore\source\repos\PruebaMulticapa\Proyecto.BE\obj\Debug\Proyecto.BE.csproj.CoreCompileInputs.cache
+C:\Users\Vasti Gabriela Flore\source\repos\PruebaMulticapa\Proyecto.BE\obj\Debug\Proyecto.BE.dll
+C:\Users\Vasti Gabriela Flore\source\repos\PruebaMulticapa\Proyecto.BE\obj\Debug\Proyecto.BE.pdb

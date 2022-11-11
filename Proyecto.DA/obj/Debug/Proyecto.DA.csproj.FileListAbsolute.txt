@@ -1,0 +1,9 @@
+C:\Users\Vasti Gabriela Flore\source\repos\PruebaMulticapa\Proyecto.DA\bin\Debug\Proyecto.DA.dll
+C:\Users\Vasti Gabriela Flore\source\repos\PruebaMulticapa\Proyecto.DA\bin\Debug\Proyecto.DA.pdb
+C:\Users\Vasti Gabriela Flore\source\repos\PruebaMulticapa\Proyecto.DA\bin\Debug\Proyecto.BE.dll
+C:\Users\Vasti Gabriela Flore\source\repos\PruebaMulticapa\Proyecto.DA\bin\Debug\Proyecto.BE.pdb
+C:\Users\Vasti Gabriela Flore\source\repos\PruebaMulticapa\Proyecto.DA\obj\Debug\Proyecto.DA.csproj.AssemblyReference.cache
+C:\Users\Vasti Gabriela Flore\source\repos\PruebaMulticapa\Proyecto.DA\obj\Debug\Proyecto.DA.csproj.CoreCompileInputs.cache
+C:\Users\Vasti Gabriela Flore\source\repos\PruebaMulticapa\Proyecto.DA\obj\Debug\Proyecto.DA.csproj.CopyComplete
+C:\Users\Vasti Gabriela Flore\source\repos\PruebaMulticapa\Proyecto.DA\obj\Debug\Proyecto.DA.dll
+C:\Users\Vasti Gabriela Flore\source\repos\PruebaMulticapa\Proyecto.DA\obj\Debug\Proyecto.DA.pdb

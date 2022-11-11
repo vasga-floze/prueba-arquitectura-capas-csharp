@@ -1,0 +1,11 @@
+C:\Users\Vasti Gabriela Flore\source\repos\PruebaMulticapa\Proyecto.BL\bin\Debug\Proyecto.BL.dll
+C:\Users\Vasti Gabriela Flore\source\repos\PruebaMulticapa\Proyecto.BL\bin\Debug\Proyecto.BL.pdb
+C:\Users\Vasti Gabriela Flore\source\repos\PruebaMulticapa\Proyecto.BL\bin\Debug\Proyecto.BE.dll
+C:\Users\Vasti Gabriela Flore\source\repos\PruebaMulticapa\Proyecto.BL\bin\Debug\Proyecto.DA.dll
+C:\Users\Vasti Gabriela Flore\source\repos\PruebaMulticapa\Proyecto.BL\bin\Debug\Proyecto.BE.pdb
+C:\Users\Vasti Gabriela Flore\source\repos\PruebaMulticapa\Proyecto.BL\bin\Debug\Proyecto.DA.pdb
+C:\Users\Vasti Gabriela Flore\source\repos\PruebaMulticapa\Proyecto.BL\obj\Debug\Proyecto.BL.csproj.AssemblyReference.cache
+C:\Users\Vasti Gabriela Flore\source\repos\PruebaMulticapa\Proyecto.BL\obj\Debug\Proyecto.BL.csproj.CoreCompileInputs.cache
+C:\Users\Vasti Gabriela Flore\source\repos\PruebaMulticapa\Proyecto.BL\obj\Debug\Proyecto.BL.csproj.CopyComplete
+C:\Users\Vasti Gabriela Flore\source\repos\PruebaMulticapa\Proyecto.BL\obj\Debug\Proyecto.BL.dll
+C:\Users\Vasti Gabriela Flore\source\repos\PruebaMulticapa\Proyecto.BL\obj\Debug\Proyecto.BL.pdb

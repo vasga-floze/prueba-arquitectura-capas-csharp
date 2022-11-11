@@ -72,3 +72,9 @@ C:\Users\Vasti Gabriela Flore\source\repos\PruebaMulticapa\PruebaMulticapa\obj\D
 C:\Users\Vasti Gabriela Flore\source\repos\PruebaMulticapa\PruebaMulticapa\obj\Debug\PruebaMulticapa.csproj.CopyComplete
 C:\Users\Vasti Gabriela Flore\source\repos\PruebaMulticapa\PruebaMulticapa\obj\Debug\PruebaMulticapa.dll
 C:\Users\Vasti Gabriela Flore\source\repos\PruebaMulticapa\PruebaMulticapa\obj\Debug\PruebaMulticapa.pdb
+C:\Users\Vasti Gabriela Flore\source\repos\PruebaMulticapa\PruebaMulticapa\bin\Proyecto.BE.dll
+C:\Users\Vasti Gabriela Flore\source\repos\PruebaMulticapa\PruebaMulticapa\bin\Proyecto.BL.dll
+C:\Users\Vasti Gabriela Flore\source\repos\PruebaMulticapa\PruebaMulticapa\bin\Proyecto.DA.dll
+C:\Users\Vasti Gabriela Flore\source\repos\PruebaMulticapa\PruebaMulticapa\bin\Proyecto.BE.pdb
+C:\Users\Vasti Gabriela Flore\source\repos\PruebaMulticapa\PruebaMulticapa\bin\Proyecto.BL.pdb
+C:\Users\Vasti Gabriela Flore\source\repos\PruebaMulticapa\PruebaMulticapa\bin\Proyecto.DA.pdb
